@@ -29,6 +29,15 @@
   --crust: var(--ctp-macchiato-crust);
 }
 
+tr[class="green-tr"] {
+    background: var(--green) !important;
+    color: var(--mantle) !important;
+}
+tr[class="red-tr"] {
+    background: var(--red) !important;
+    color: var(--mantle) !important;
+}
+
 input[type=password] {
     background: var(--mantle);
     color: var(--text);
@@ -130,6 +139,11 @@ h3 {
 
 h2 {
     color:var(--text);
+}
+
+p {
+    background: var(--mantle) !important;
+    color: var(--text) !important;
 }
 
 td.b1 {
