@@ -1,4 +1,4 @@
-# ej_msk_dark_theme
+# ejudge.msk.ru dark theme
 Dark theme for ejudge.msk.ru
 ## Usage
 
