@@ -87,7 +87,7 @@ ul[class="ui-tabs-nav ui-corner-all ui-helper-reset ui-helper-clearfix ui-widget
 a[id="ui-id-2"] {
     background: var(--mantle) !important;
     color: var(--text) !important;
-}
+}/*
 li[class="ui-tabs-tab ui-corner-top ui-state-default ui-tab ui-tabs-active ui-state-active"] {
     background: var(--blue) !important;
     color: var(--mantle) !important;
@@ -103,26 +103,19 @@ li[class="ui-tabs-tab ui-corner-top ui-state-default ui-tab ui-tabs-active ui-st
     border-color: var(--blue) !important;
     border-radius: 5px;
     font-weight: 1000;
-}
+}*/
 p[class="ejudge_copyright"] {
     background: var(--base) !important;
 }
 a[id="ui-id-1"] {
-    background: var(--blue) !important;
-    color: var(--mantle) !important;
+    background: var(--mantle) !important;
+    color: var(--text) !important;/*
     border: 1px solid !important;
     border-color: var(--blue) !important;
-    border-radius: 5px;
-    font-weight: 1000;
+    border-radius: 0px;
+    font-weight: 1000;*/
 }
-a[id="ui-id-1"]:hover {
-    background: var(--blue) !important;
-    color: var(--lavendar) !important;
-    border: 1px solid !important;
-    border-color: var(--blue) !important;
-    border-radius: 5px;
-    font-weight: 1000;
-}
+
 
 a[class="menu"] {
     background: var(--surface2);
@@ -274,10 +267,6 @@ td#probNavTaskArea {
 .info-table-line td {
     background: var(--surface0) !important;
     padding: 6px 15px;
-}
-
-a {
-    color: var(--rosewater);
 }
 
 .table td {
