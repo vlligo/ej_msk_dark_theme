@@ -145,7 +145,7 @@ h2 {
 }
 
 p {
-    background: var(--mantle) !important;
+    background: var(--base) !important;
     color: var(--text) !important;
 }
 
