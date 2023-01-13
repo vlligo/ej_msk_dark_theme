@@ -29,6 +29,9 @@
     --crust: var(--ctp-macchiato-crust);
 }
 
+div[class="server_status_alarm"] {
+    color: var(--base) !important;
+}
 
 tr[class="green-tr"] {
     background: var(--green) !important;
